@@ -1,6 +1,7 @@
 #include <stdio.h>
+sdfg
+bgf
 
-int main() {
-    printf("hellooooo punit");
-    return 0;
-}
+adfgb
+sadfg
+sdfg
