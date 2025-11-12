@@ -1,2 +1,2 @@
 #include <stdio.h>
-print ("hello bhiya")
+print ("hello world from punit")
