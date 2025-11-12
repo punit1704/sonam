@@ -1,7 +1,2 @@
 #include <stdio.h>
-sdfg
-bgf
-
-adfgb
-sadfg
-sdfg
+print ("hello bhiya")
